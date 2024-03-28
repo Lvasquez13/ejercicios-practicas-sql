@@ -18,8 +18,7 @@ A continuación se detallan algunas consultas realizadas en la base de datos.
 - Listar todas las bandas que tienen un disco con nombre empezando en 'a'. Listar el nombre de la banda y del disco.
 - Listar todas las bandas que tengan discos con más de una palabra. Listar el nombre de la banda y el disco.
 - Listar todas las bandas que tengan discos con más de una palabra. Listar el nombre de la banda y la cantidad de discos.
- *Descripción*: Este proyecto simula una base de datos de bandas y sus discos.
-
+ 
 
 
 
